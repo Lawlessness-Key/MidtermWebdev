@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+  background-image: url("C:\Users\jcarl\OneDrive\Desktop\Midterm Project\bg.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  animation: rotate 10s linear infinite;
+  background-attachment: fixed;
+}
+
+
+
+input{
+  background-color: #66bfbf 60%;
+  padding: 15px;
+  border: 1px solid #ccc;
+  width: 500px;
+  height: 30px;
+  text-align: center;
+}
